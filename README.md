@@ -19,4 +19,4 @@ This is a **university project** for a database course. The project consists of 
 To load the database, use SQLite or PostgreSQL:  
 
 ```sql
-.read schema.sql
+.read create_tables.sql
